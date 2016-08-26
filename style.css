@@ -1,0 +1,15 @@
+body {
+	background-image: url("flower.jpg"); 
+	color: white;
+	width: 960px;
+
+}
+
+.head {
+	color: white;
+	text-align: center;
+}
+
+.container {
+	color: white;
+}
